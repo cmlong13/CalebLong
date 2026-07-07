@@ -54,5 +54,5 @@ I am especially interested in internships and roles where I can apply computer s
 ## Connect
 
 * GitHub: [github.com/cmlong13](https://github.com/cmlong13)
-* LinkedIn: [linkedin.com/in/Caleb-Long](www.linkedin.com/in/caleb-long-52431b344)
+* LinkedIn: [linkedin.com/in/Caleb-Long](https://www.linkedin.com/in/caleb-long-52431b344/)
 * Email: [caleb.long0213@gmail.com]
